@@ -12,8 +12,6 @@ Author: ABDULLAHI YUSUF Also known as 0daydeactice.
 
 </details>
 
-**Author:** **ABDULLAHI YUSUF** Also known as **0daydeactice**.
-
 <figure><img src="https://miro.medium.com/v2/resize:fit:690/1*bcVtx3WThJIxosCCxZVpHQ@2x.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 > **Task 1 Prologue**
